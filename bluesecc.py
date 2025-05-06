@@ -48,7 +48,7 @@ class BlueSecAnimation:
         animations = ["⣾", "⣽", "⣻", "⢿", "⡿", "⣟", "⣯", "⣷"]
         for i in range(15):
             time.sleep(0.1)
-            sys.stdout.write("\r" + Fore.BLUE + "Memulai sistem keamanan " + animations[i % len(animations)] + " " + Style.RESET_ALL)
+            sys.stdout.write("\r" + Fore.BLUE + "Penyesalan itu datang terakhir!! " + animations[i % len(animations)] + " " + Style.RESET_ALL)
             sys.stdout.flush()
         print("\n")
 
