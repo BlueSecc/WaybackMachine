@@ -13,7 +13,7 @@ pip3 install bs4 --break-system-packages
 
 pip3 install colorama --break-system-packages
 
-git clone https://github.com/BlueSecc/WaybackMachine
+git clone https://github.com/ph3lixxx/WaybackMachine
 
 cd WaybackMachine
 
