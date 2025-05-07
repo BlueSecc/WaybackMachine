@@ -20,6 +20,6 @@ cd WaybackMachine
 python3 bluesecc.py
 
 # Follow me
-Youtube : https://www.youtube.com/@BlueSecc
+Youtube : https://www.youtube.com/@ph3lixxx
 
-Telegram : t.me/blueseccc
+Telegram : https://t.me/ph3lixxx 
