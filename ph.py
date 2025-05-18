@@ -77,9 +77,9 @@ class WaybackDownloader:
             '10': {'ext': ['env', 'conf', 'config', 'bak'], 'desc': 'Configuration Files'}
         }
         self.social_links = {
-            'github': 'https://github.com/BlueSecc',
-            'youtube': 'https://www.youtube.com/@bluesecc',
-            'telegram': 'https://t.me/blueseccc'
+            'github': 'https://github.com/ph3lixxx',
+            'youtube': 'https://www.youtube.com/@ph3lixxx',
+            'telegram': 'https://t.me/ph3lixxx'
         }
 
     def show_social_links(self):
