@@ -40,7 +40,7 @@ class BlueSecAnimation:
         """ + Style.RESET_ALL)
         
         print(Fore.CYAN + "=== THE POWER IS INVISIBLE ===")
-        print("=== BlueSec Security ===" + Style.RESET_ALL)
+        print("=== felix ===" + Style.RESET_ALL)
         time.sleep(1)
         
     @staticmethod
